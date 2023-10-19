@@ -1,3 +1,5 @@
+## Developed at [PEASEC](https://peasec.de/) during my student assistant employment. This repository archives the state of the project at the time I left PEASEC.
+
 ![podtender logo](logo/podtender-logo-source.svg)
 
 # Podtender
